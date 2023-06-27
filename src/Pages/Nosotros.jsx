@@ -1,6 +1,5 @@
 import React from "react";
 import Integrantes from "../Components/Integrantes";
-import Comentarios from "../Components/Comentarios";
 
 const Nosotros = () => {
   return (
@@ -10,8 +9,6 @@ const Nosotros = () => {
           ¿Quienes somos?
         </h1>
         <Integrantes />
-        <hr />
-        {/* <Comentarios /> */}
         <hr />
       </main>
     </div>
