@@ -9,7 +9,9 @@ const Contenido = () => {
       <div className="container-top">
         <Carrousel />
       </div>
+      <hr />
       <h2 className="offers-tittle">Ofertas</h2>
+      <hr />
       <div className="">
         <Ofertas pathError="/*" />
       </div>
